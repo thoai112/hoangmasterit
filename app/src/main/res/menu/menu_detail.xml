@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/mnThongbao"
+    android:icon="@drawable/baseline_man_50"
+    android:title="Thong bao"
+    app:showAsAction="always"/>
+
+    <item android:id="@+id/mnprint"
+    android:icon="@drawable/baseline_man_50"
+    android:title="Print"
+    app:showAsAction="always"/>
+
+</menu>
